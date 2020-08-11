@@ -8,6 +8,7 @@ namespace HelloGithub
         {
             //Output
             Console.WriteLine("Hello Git Hub!");
+            Console.WriteLine("This is from Git Hub");
         }
     }
 }
