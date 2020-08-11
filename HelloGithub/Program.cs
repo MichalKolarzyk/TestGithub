@@ -6,6 +6,7 @@ namespace HelloGithub
     {
         static void Main(string[] args)
         {
+            //Output
             Console.WriteLine("Hello Git Hub!");
         }
     }
