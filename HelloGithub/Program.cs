@@ -2,8 +2,15 @@
 
 namespace HelloGithub
 {
+
+
     class Program
     {
+        public int Sum(int a, int b)
+        {
+            return a + b;
+        }
+
         static void Main(string[] args)
         {
             //Output
