@@ -19,6 +19,8 @@ namespace HelloGithub
         {
             Console.WriteLine("Hello Git Hub!");
             Console.WriteLine("This is from Git Hub");
+            Console.WriteLine("New feature");
+            Console.WriteLine("New feature efect");
         }
     }
 }
