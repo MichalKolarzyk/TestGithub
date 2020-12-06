@@ -9,11 +9,13 @@ namespace HelloGithub
         {
             return a - b;
         }
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
 
         static void Main(string[] args)
         {
-            //Output
-            //Test
             Console.WriteLine("Hello Git Hub!");
             Console.WriteLine("This is from Git Hub");
         }
