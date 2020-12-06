@@ -7,6 +7,7 @@ namespace HelloGithub
     {
         public int Sub(int a, int b)
         {
+            //bug fix
             return a - b;
         }
         public int Add(int a, int b)
