@@ -22,6 +22,7 @@ namespace HelloGithub
             Console.WriteLine("This is from Git Hub");
             Console.WriteLine("New feature");
             Console.WriteLine("New feature efect");
+            Console.WriteLine("Merge from master");
         }
     }
 }
