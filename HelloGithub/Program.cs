@@ -23,6 +23,7 @@ namespace HelloGithub
             Console.WriteLine("New feature");
             Console.WriteLine("New feature efect");
             Console.WriteLine("Merge from master");
+            Console.WriteLine("Merge from dev");
         }
     }
 }
