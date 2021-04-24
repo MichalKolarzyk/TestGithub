@@ -6,8 +6,8 @@ namespace HelloGithub.Models
 {
     public interface IAnimal
     {
-        string Descripsion { get; set; }
+        string Descripsion { get; }
 
-        string Sound { get; set; }
+        string Sound { get; }
     }
 }
