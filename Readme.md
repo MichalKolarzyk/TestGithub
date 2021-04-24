@@ -21,3 +21,9 @@ This is where we have information about our demo repo.
 - git checout -b [new branch name]
 
 - git merge [branch name]
+
+- git fetch
+- git pull
+- git checkout master^
+- git checkout HEAD^
+- git checkout HEAT~4
