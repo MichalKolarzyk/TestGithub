@@ -13,5 +13,10 @@ namespace HelloGithub
         {
             return;
         }
+
+        public static void Feature2()
+        {
+            return;
+        }
     }
 }
