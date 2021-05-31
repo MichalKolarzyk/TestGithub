@@ -9,5 +9,10 @@ namespace HelloGithub
         {
             Console.WriteLine("Hello Git Hub!");
         }
+
+        public static void Feature1()
+        {
+            return;
+        }
     }
 }
