@@ -27,3 +27,5 @@ This is where we have information about our demo repo.
 - git checkout master^
 - git checkout HEAD^
 - git checkout HEAT~4
+
+master
